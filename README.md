@@ -21,5 +21,5 @@ If you are playing Linkin Park, it goes into special mode, where the Bio Metal F
 
 `R.I.P Chester Bennington`
 
-#Acknowledgements
+# Acknowledgements
 The Spotify API part is based on the [spotify-player](https://github.com/JMPerez/spotify-player) wrapper by JMPerez.
